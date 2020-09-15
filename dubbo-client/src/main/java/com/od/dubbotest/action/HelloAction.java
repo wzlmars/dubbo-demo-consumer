@@ -15,8 +15,7 @@ public class HelloAction {
 	@RequestMapping
 	public String say(String name) {
 		System.out.println("HelloAction接收到请求:"+name);
-		String str="<h1>这是Dubbo 消费者端(springboot)</h1>";
-		str+="<h2>学好kubernetes走遍天下都不怕</h2>";
+		String str="<h1>这是Dubbo微服务消费端(springboot)</h1><h2>这是本次实验的测试页面</h2>";
 		str+=helloService.hello(name);
 		System.out.println("HelloService返回到结果:"+str);
 		return str;
