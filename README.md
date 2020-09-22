@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # dubbo-demo-web
 
 #### Description
@@ -35,6 +34,3 @@ Software architecture description
 4. The most valuable open source project [GVP](https://gitee.com/gvp)
 5. The manual of Gitee [https://gitee.com/help](https://gitee.com/help)
 6. The most popular members  [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
-=======
-dubbo consumer
->>>>>>> 19f9406cc77169f0390b2209bafed811223107bc
